@@ -1,5 +1,7 @@
 # Définitions de “dimension finie”有限元章节的定义集合
 
+![test](D:\GitHub\Alg-Geo1ECPK\Image1\736461.png)
+
 ## 2.1Base finie
 
 ### Combinaison linéaire 线性组合
